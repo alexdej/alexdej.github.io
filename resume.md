@@ -17,7 +17,7 @@ description: Resume of Alex DeJarnatt, an independent software developer previou
 
 February 2026 to present
 
-Indexing and archiving the world's crosswords at the [Every Puzzle Project](https://blitz.xwordapp.com/). Maintainer on the gxd crossword archive. Builder of [The Cross Reference](https://crosswordreference.com). Author of [puz.py](https://github.com/alexdej/puzpy) and [hodoku-py](https://alexdej.github.io/hodoku-py/).
+Indexing and archiving the world's crosswords at the [Every Puzzle Project](https://blitz.xwordapp.com/) and [xd archive](xd.saul.pw). Builder of [The Cross(word) Reference](https://crosswordreference.com). Author of [puz.py](https://github.com/alexdej/puzpy) and [hodoku-py](https://alexdej.github.io/hodoku-py/).
 
 ### Career break
 
