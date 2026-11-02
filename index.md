@@ -11,8 +11,8 @@ But I used to have a [real job](/resume.html).
 
 ## Crosswords
 
-[The Cross Reference](https://crosswordreference.com)
-: A reference site for crossword answers and clues, built around the connections between puzzles.
+[The Cross(word) Reference](https://crosswordreference.com)
+: A reference site for 100 years of crosswords, built around the connections between puzzles.
 
 [Every Puzzle Project](https://blitz.xwordapp.com/)
 : Bringing old crosswords back from paper and page scans. Read the [blog](https://blitz.xwordapp.com/blog/).
@@ -23,18 +23,17 @@ But I used to have a [real job](/resume.html).
 [puz.py](https://github.com/alexdej/puzpy)
 : Since 2009, a Python library for reading and writing Across Lite .puz files.
 
-xwordapp.com (defunct)
-: A web site for solving the day's puzzles.
+[xwordapp.com](https://xwordapp.com) (defunct)
+: A web site for solving the day's puzzles. RIP.
 
 ## Sudoku
 
 [hodoku-py](https://github.com/alexdej/hodoku-py)
-: A very well tested python port of HoDoKu's sudoku engine: solver, difficulty rating, hints and puzzle generator.
+: An extremely well-tested Python port of HoDoKu's sudoku engine: solver, difficulty rating, hints and puzzle generator.
 
 ## Other projects
 
-pytest plugins
-: [clang-tidy](https://github.com/alexdej/pytest-clang-tidy), [cppcheck](https://github.com/alexdej/pytest-cppcheck) and [cpplint](https://github.com/alexdej/pytest-cpplint): 
+[clang-tidy](https://github.com/alexdej/pytest-clang-tidy), [cppcheck](https://github.com/alexdej/pytest-cppcheck) and [cpplint](https://github.com/alexdej/pytest-cpplint): 
 Static analysis tools for C and C++ python extensions
 
 [claude-scrollback](https://alexdej.github.io/claude-scrollback/)
