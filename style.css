@@ -77,6 +77,8 @@ dd { margin: 0; }
 
 .contact { margin: 0; padding: 0; list-style: none; }
 
+p:has(> em:first-child) { margin-bottom: .1rem; }
+
 .back { margin-bottom: 1.5rem; }
 .contact-line { color: var(--muted); }
 
