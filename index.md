@@ -28,7 +28,7 @@ xwordapp.com (defunct)
 
 ## Sudoku
 
-[hodoku-py](https://alexdej.github.io/hodoku-py/)
+[hodoku-py](https://github.com/alexdej/hodoku-py)
 : A very well tested python port of HoDoKu's sudoku engine: solver, difficulty rating, hints and puzzle generator.
 
 ## Other projects

@@ -15,15 +15,15 @@ description: Resume of Alex DeJarnatt, an independent software developer previou
 
 ### Independent software developer
 
-February 2026 to present
+*February 2026 to present*
 
-Indexing and archiving the world's crosswords at the [Every Puzzle Project](https://blitz.xwordapp.com/) and [xd archive](xd.saul.pw). Builder of [The Cross(word) Reference](https://crosswordreference.com). Author of [puz.py](https://github.com/alexdej/puzpy) and [hodoku-py](https://alexdej.github.io/hodoku-py/).
+Indexing and archiving the world's crosswords at the [Every Puzzle Project](https://blitz.xwordapp.com/) and [xd archive](https://xd.saul.pw/). Builder of [The Cross(word) Reference](https://crosswordreference.com). Author of [puz.py](https://github.com/alexdej/puzpy) and [hodoku-py](https://github.com/alexdej/hodoku-py).
 
 ### Career break
 
-February 2020 to February 2026
+*February 2020 to February 2026*
 
-Time with my kids and hobbies, a sabbatical year in Oslo (2024-25)
+Time with my kids and hobbies, a sabbatical year in Oslo (2024-25).
 
 ### Intermedia Labs (HQ Trivia)
 
