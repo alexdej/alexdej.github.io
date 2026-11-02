@@ -15,15 +15,15 @@ description: Resume of Alex DeJarnatt, an independent software developer previou
 
 ### Independent software developer
 
-*Self-employed*, February 2026 to present
+February 2026 to present
 
 Indexing and archiving the world's crosswords at the [Every Puzzle Project](https://blitz.xwordapp.com/). Maintainer on the gxd crossword archive. Builder of [The Cross Reference](https://crosswordreference.com). Author of [puz.py](https://github.com/alexdej/puzpy) and [hodoku-py](https://alexdej.github.io/hodoku-py/).
 
 ### Career break
 
-*Full-time parenting*, March 2020 to February 2026
+February 2020 to February 2026
 
-Time with my kids and travel, including 2024--25 in Oslo learning Norwegian (B2).
+Time with my kids and hobbies, a sabbatical year in Oslo (2024-25)
 
 ### Intermedia Labs (HQ Trivia)
 
@@ -33,7 +33,7 @@ Returned as HQ Trivia grew past one million concurrent viewers. Instrumented the
 
 *Director of Engineering*, April 2016 to June 2017
 
-Built HQ, a platform for real-time interactive video. HQ Trivia launched on it in summer 2017 and became the company's focus.
+Built HQ, a platform for real-time interactive video. HQ Trivia launched on it in summer 2017 and became the company's primary focus.
 
 ### Vine (Twitter)
 
@@ -51,21 +51,14 @@ Data pipelines and front-end features on the Google Finance team in New York.
 
 *Principal Software Design Engineer*, October 2000 to November 2011
 
-Eleven years in Redmond, rising to Principal. Technical lead for the Windows Azure AppFabric Composite Application designer, and for web service and serialization features of Silverlight 2 and 3. Led development of the programming model, SDK, and WSDL, WS-Policy and WS-MetadataExchange support for Windows Communication Foundation. Earlier, worked on the XML Web Services features of .NET Framework 1.0 through 2.0.
-
-*Principal Development Manager, Shanghai*, January 2009 to June 2009
-
-Managed a product group of twelve developers at Microsoft China R&D.
+Six years in Redmond, five remote including a short stint in Shanghai. Led teams building xml web service features for .NET Framework, Visual Studio, and Windows.
 
 ### drugstore.com
 
 *Lead Software Design Engineer*, July 1999 to October 2000
 
-Led development of the order processing system and a team of four developers and one tester.
+Worked on the web site and led development of the order processing system.
 
-### M-Code Software
-
-*Software Engineer, Co-founder*, July 1998 to July 1999
 
 ## Education
 
