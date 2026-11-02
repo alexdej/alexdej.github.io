@@ -14,7 +14,7 @@ But I used to have a [real job](/resume.html).
 [The Cross(word) Reference](https://crosswordreference.com)
 : A reference site for 100 years of crosswords, built around the connections between puzzles.
 
-[Every Puzzle Project](https://blitz.xwordapp.com/)
+[Every Puzzle Project](https://everypuzzleproject.org/)
 : Bringing old crosswords back from paper and page scans. Read the [blog](https://blitz.xwordapp.com/blog/).
 
 [xd](https://xd.saul.pw/)
