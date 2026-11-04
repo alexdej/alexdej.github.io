@@ -81,11 +81,18 @@ p:has(> em:first-child) { margin-bottom: .1rem; }
 
 .back { margin-bottom: 1.5rem; }
 .contact-line { color: var(--muted); }
+.print-contact { display: none; }
+
+@page { margin: .5in .65in; }
 
 @media print {
-  body { background: #fff; color: #000; font-size: 11pt; }
+  body { background: #fff; color: #000; font-size: 10.5pt; line-height: 1.4; }
   main { max-width: none; padding: 0; }
   a { color: inherit; text-decoration: none; }
-  .back { display: none; }
-  h3 { break-after: avoid; }
+  .back { margin: 0 0 .2rem; font-size: 20pt; font-weight: 700; }
+  main > h1, .contact-line { display: none; }
+  .print-contact { display: block; }
+  h2 { margin: 1rem 0 .35rem; break-after: avoid; }
+  h3 { margin-top: .7rem; break-after: avoid; }
+  p { margin-bottom: .35rem; }
 }

@@ -11,6 +11,9 @@ description: Resume of Alex DeJarnatt, an independent software developer previou
 [Email](https://www.linkedin.com/in/alexdejarnatt){: .email} · [GitHub](https://github.com/alexdej) · [LinkedIn](https://www.linkedin.com/in/alexdejarnatt)
 {: .contact-line}
 
+Newport, RI · [Email](https://www.linkedin.com/in/alexdejarnatt){: .email} · [alexdej.com](https://alexdej.com) · [github.com/alexdej](https://github.com/alexdej) · [linkedin.com/in/alexdejarnatt](https://www.linkedin.com/in/alexdejarnatt)
+{: .print-contact}
+
 ## Experience
 
 ### Independent software developer
