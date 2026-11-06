@@ -17,8 +17,8 @@ But I used to have a [real job](/resume.html).
 [Every Puzzle Project](https://everypuzzleproject.org/)
 : Bringing old crosswords back from paper and page scans. Read the [blog](https://blitz.xwordapp.com/blog/).
 
-[xd](https://xd.saul.pw/)
-: A futureproof crossword corpus and toolset, which I maintain with [Saul Pwanson](https://saul.pw/).
+[The xd Crossword Corpus](https://centuryarcade.org/xdcorpus/)
+: The world's largest collection of published crosswords, which I maintain with [Saul Pwanson](https://saul.pw/) at [Century Arcade](https://centuryarcade.org/).
 
 [puz.py](https://github.com/alexdej/puzpy)
 : Since 2009, a Python library for reading and writing Across Lite .puz files.

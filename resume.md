@@ -20,7 +20,7 @@ Newport, RI · [Email](https://www.linkedin.com/in/alexdejarnatt){: .email} · [
 
 *February 2026 to present*
 
-Indexing and archiving the world's crosswords at the [Every Puzzle Project](https://everypuzzleproject.org/) and [xd archive](https://xd.saul.pw/). Builder of [The Cross(word) Reference](https://crosswordreference.com). Author of [puz.py](https://github.com/alexdej/puzpy) and [hodoku-py](https://github.com/alexdej/hodoku-py).
+Indexing and archiving the world's crosswords at the [Every Puzzle Project](https://everypuzzleproject.org/) and [xd Crossword Corpus](https://centuryarcade.org/xdcorpus/). Builder of [The Cross(word) Reference](https://crosswordreference.com). Author of [puz.py](https://github.com/alexdej/puzpy) and [hodoku-py](https://github.com/alexdej/hodoku-py).
 
 ### Career break
 
